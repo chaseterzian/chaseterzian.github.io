@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
 
-  root 'chase_terzian#resume'
+  root 'chaseterzian#resume'
 
 end
