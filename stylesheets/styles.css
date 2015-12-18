@@ -1,3 +1,68 @@
+.col-1-var(){
+  width: 8.33%;
+  height: var()px;
+  float: left;
+}
+
+.col-1-var(){
+  width: 8.33333%;
+  height: var()px;
+  float: left;
+}
+.col-1{
+  width: 8.33333%;
+  float: left;
+}
+.col-2{
+  width: 16.66666%;
+  float: left;
+}
+.col-3{
+  width: 25%;
+  float: left;
+}
+.col-4{
+  width: 33.33333%;
+  float: left;
+}
+.col-5{
+  width: 41.66666%;
+  float: left;
+}
+.col-6{
+  width: 50.00%;
+  float: left;
+}
+.col-7{
+  width: 58.33333%;
+  float: left;
+}
+.col-8{
+  width: 66.66666%;
+  float: left;
+}
+.col-9{
+  width: 75.00%;
+  float: left;
+}
+.col-10{
+  width: 83.33333%;
+  float: left;
+}
+.col-11{
+  width: 91.66666%;
+  float: left;
+}
+.col-12-space{
+  height: 30px;
+  width: 100.00%;
+  float: left;
+}
+
+
+
+
+
 @font-face {
   font-family: 'OpenSansLight';
   src: url("../fonts/OpenSans-Light-webfont.eot");
@@ -769,7 +834,7 @@ dt {
 #header nav li.fork {
   float: left;
   margin-left: 0px;
-  
+
 }
 #header nav li.downloads {
   float: right;
