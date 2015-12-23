@@ -34,6 +34,9 @@ h6 {
     background: url(../img/KBSepia.jpg) no-repeat center center;
     background-size: cover;
 }
+.bg2{  
+    background-image: url(../img/KBSepia2.jpg) no-repeat center;
+}
 
 .intro-message {
     position: relative;
