@@ -16,6 +16,17 @@
 .padbottom50 {
 	padding-bottom: 50px;
 }
+.space30 {
+  height: 30px;
+}
+
+.space50 {
+  height: 50px;
+}
+
+.space100 {
+  height: 100px;
+}
 .text-whiter{
 	color: #a6a6a6;
 }
