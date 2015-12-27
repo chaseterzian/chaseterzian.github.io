@@ -106,3 +106,9 @@ footer {
    width:100%;
    background: black;
 }
+
+.preloads{
+  visibility: hidden;
+  position: absolute;
+  z-index: -1000;
+}
