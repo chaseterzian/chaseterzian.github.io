@@ -99,10 +99,11 @@
 	border: 1px solid transparent;
 }
 footer {
+  padding-top: 10px;
    position:fixed;
    left:0px;
    bottom:0px;
-   height:100px;
+   height:40px;
    width:100%;
    background: black;
 }
@@ -111,4 +112,8 @@ footer {
   visibility: hidden;
   position: absolute;
   z-index: -1000;
+}
+
+.img100{
+  width: 100%;
 }

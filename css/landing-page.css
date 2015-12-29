@@ -35,7 +35,7 @@ h6 {
     background-size: cover;
 }
 .bg2{  
-    background-image: url(../img/KBSepia2.jpg) no-repeat center;
+    background-image: url(../img/KBSepia2Lo.jpg) no-repeat center;
 }
 
 .intro-message {
@@ -157,11 +157,6 @@ h6 {
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
     }
-}
-
-footer {
-    padding: 50px 0;
-    background-color: #f8f8f8;
 }
 
 p.copyright {
