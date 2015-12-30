@@ -8,20 +8,20 @@ $(document).ready(function() {
 	$('hr').hide();
 
 	// $('.bg1').fadeIn(1000);
-	$('#chase-terzian').fadeIn(2000);
+	$('#chase-terzian').fadeIn(1000);
 	
 
 	setTimeout(function() {
-		$('#the-source').fadeIn(2000);
+		$('#the-source').fadeIn(1000);
 	},200);
 
 	setTimeout(function() {
-	$('#landing-link-buttons').fadeIn(2000);
+	$('#landing-link-buttons').fadeIn(1000);
 	$('hr').fadeIn(3000);
 	},400);
 
 	setTimeout(function() {
-	$('#landing-site-buttons').fadeIn(2000);
+	$('#landing-site-buttons').fadeIn(1000);
 	},600); 
 
 });
