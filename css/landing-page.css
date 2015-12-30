@@ -31,8 +31,15 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/KBSepiaLo.jpg) no-repeat center center;
     background-size: cover;
+
+}
+.bg1{
+    background: url(../img/KBSepiaLo.jpg) no-repeat center center;
+    /*width: 100%;*/
+    /*height: auto;*/
+    background-size: cover;
+
 }
 .bg2{  
     background-image: url(../img/KBSepia2Lo.jpg) no-repeat center;
