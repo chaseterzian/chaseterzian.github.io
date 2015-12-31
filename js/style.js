@@ -8,10 +8,12 @@ $(document).ready(function() {
 	$('hr').hide();
 	// $('html').hide();
 	$('.bg1').hide();
+	$('#resume-button-landing').hide();
+
+
+	
 
 	$('.bg1').fadeIn(3000);
-
-
 	$('#chase-terzian').fadeIn(3000);
 	setTimeout(function() {
 		$('#the-source').fadeIn(3000);

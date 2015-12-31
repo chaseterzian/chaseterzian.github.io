@@ -113,8 +113,8 @@ h6 {
 
 .section-heading-spacer {
     float: left;
-    width: 200px;
-    border-top: 3px solid #e7e7e7;
+    width: 300px;
+    border-top: 1px solid black;
 }
 
 .banner {
