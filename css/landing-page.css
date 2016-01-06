@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+nav {
+    height:40px;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
@@ -116,6 +120,11 @@ h6 {
     width: 300px;
     border-top: 1px solid black;
 }
+.section-heading-spacer2 {
+    float: left;
+    width: 97.5%;
+    border-top: 1px solid black;
+}
 
 .banner {
     padding: 100px 0;
@@ -171,5 +180,19 @@ p.copyright {
     background: url(../img/KBSepiaLo.jpg) no-repeat center center;
     width: 100%;
     height: 100%;
+    background-size: cover;
+}
+.bg25{
+    background: url(../img/BlkKey25Lo.jpg) center center;
+    width: 100%;
+    background-size: cover;
+}
+.bg15{
+    background: url(../img/BlkKey15Lo.jpg) center center;
+    width: 100%;
+    background-size: cover;
+}
+.bg-gray{
+    background-color: #b3b3b3;
     background-size: cover;
 }
