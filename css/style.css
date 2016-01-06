@@ -19,6 +19,9 @@
 .padtop50 {
 	padding-top: 50px;
 }
+.padtop100 {
+  padding-top: 100px;
+}
 .padbottom50 {
 	padding-bottom: 50px;
 }
@@ -36,6 +39,7 @@
 
 .space100 {
   height: 100px;
+  width: 100%;
 }
 .text-whiter{
 	color: #a6a6a6;
