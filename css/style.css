@@ -1,7 +1,10 @@
+.center-text {
+  text-align: center;
+}
+
 .pad10-left {
   padding-left: 10px;
 }
-
 .padtop10 {
   padding-top: 10px;
 }
@@ -130,6 +133,10 @@ footer {
 
 .img100{
   width: 100%;
+}
+
+.color-beige{
+  background-color: #f3f3d8;
 }
 
 /*#code-projects-page{
